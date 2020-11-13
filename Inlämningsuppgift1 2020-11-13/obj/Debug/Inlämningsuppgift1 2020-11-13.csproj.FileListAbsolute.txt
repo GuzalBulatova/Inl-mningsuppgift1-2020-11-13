@@ -1,0 +1,7 @@
+C:\Users\guzal\Source\Repos\Inlämningsuppgift1 2020-11-13\Inlämningsuppgift1 2020-11-13\bin\Debug\Inlämningsuppgift1 2020-11-13.exe.config
+C:\Users\guzal\Source\Repos\Inlämningsuppgift1 2020-11-13\Inlämningsuppgift1 2020-11-13\bin\Debug\Inlämningsuppgift1 2020-11-13.exe
+C:\Users\guzal\Source\Repos\Inlämningsuppgift1 2020-11-13\Inlämningsuppgift1 2020-11-13\bin\Debug\Inlämningsuppgift1 2020-11-13.pdb
+C:\Users\guzal\Source\Repos\Inlämningsuppgift1 2020-11-13\Inlämningsuppgift1 2020-11-13\obj\Debug\Inlämningsuppgift1 2020-11-13.csprojAssemblyReference.cache
+C:\Users\guzal\Source\Repos\Inlämningsuppgift1 2020-11-13\Inlämningsuppgift1 2020-11-13\obj\Debug\Inlämningsuppgift1 2020-11-13.csproj.CoreCompileInputs.cache
+C:\Users\guzal\Source\Repos\Inlämningsuppgift1 2020-11-13\Inlämningsuppgift1 2020-11-13\obj\Debug\Inlämningsuppgift1 2020-11-13.exe
+C:\Users\guzal\Source\Repos\Inlämningsuppgift1 2020-11-13\Inlämningsuppgift1 2020-11-13\obj\Debug\Inlämningsuppgift1 2020-11-13.pdb
